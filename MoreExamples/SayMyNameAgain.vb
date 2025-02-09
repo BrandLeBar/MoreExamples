@@ -2,7 +2,7 @@
 'Spring 2025
 'RCET2265
 'Say My Name... Again
-'https://github.com/BrandLeBar/MoreExamples.git
+'https://github.com/BrandLeBar/SayMyNameAgain.git
 
 Option Explicit On
 Option Strict On
